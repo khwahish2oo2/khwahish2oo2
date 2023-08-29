@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Khwahish Mittal</h1>
+<h3 align="center"> Enthusiastic and Determined Final-Year Undergraduate Eagerly Seeking Opportunities to Explore and Grow.</h3>
 
 
 
