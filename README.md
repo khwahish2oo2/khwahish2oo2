@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khwahish Mittal</h1>
-<h3 align="center"> Enthusiastic and Determined Final-Year Undergraduate Eagerly Seeking Opportunities to Explore and Grow.</h3>
+<h3 align="center"> Enthusiastic and determined graduate eagerly seeking opportunities to explore and grow.</h3>
 
 
 
-- 🔭 I’m currently working on Full-Stack Web Development.
-- 👯 I’m looking to collaborate on ML/DL, and Web Dev projects.
+- 🔭 I’m currently working at Fastenal India as a Developer.
+- 👯 I have a deep interest in software development.
+- 👯 I’m looking to collaborate on ML/DL, and web development projects.
 - 💬 Ask me about anything.
-- 📫 How to reach me: mittalkhwahish.2108@gmail.com
+- 📫 How to reach me: khwahish.830@gmail.com
 
